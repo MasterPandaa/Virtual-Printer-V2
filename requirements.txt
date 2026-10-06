@@ -1,0 +1,8 @@
+# No external dependencies required!
+# This application uses standard Python 3 libraries:
+# - tkinter
+# - socket
+# - threading
+# - datetime
+# - tempfile
+# - re
