@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MasterPandaa/MasterPandaa/main/assets/banners/Virtual-Printer-V2.svg" alt="Virtual Printer V2 Banner" width="100%">
+  <img src="assets/banner.svg" alt="Virtual Printer V2 Banner" width="100%">
 </p>
 
 <p align="center">
